@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Musical Instrument Sales App</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="username_autofill">Username</string>
+    <string name="password_autofill">Password</string>
+    <string name="email_autofill">Email Address</string>
+    <string name="logout_button_text">Logout</string>
+
+    <!-- Product List Activity -->
+    <string name="product_name_hint">Product Name</string>
+    <string name="product_description_hint">Description</string>
+    <string name="product_price_hint">Price</string>
+    <string name="product_image_url_hint">Image URL</string>
+    <string name="save_product_button">Save</string>
+    <string name="product_list_title">Products</string>
+    <string name="view_details">View Details</string>
+
+    <!-- Orders -->
+    <string name="view_orders_button">View Orders</string>
+
+
+    <!-- Product Item View -->
+    <string name="product_name_label">Name</string>
+    <string name="product_price_label">Price</string>
+    <string name="delete_button_text">Delete</string>
+
+    <!-- Buttons and Actions -->
+    <string name="add_product_button">Add Product</string>
+    <string name="edit_product_button">Edit</string>
+    <string name="delete_product_button">Delete</string>
+</resources>
